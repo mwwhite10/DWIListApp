@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+    <widget xmlns = "http://www.w3.org/ns/widgets"
+        xmlns:gap = "http://phonegap.com/ns/1.0"
+        id        = "org.devworkshop.JQMPhonegap"
+        versionCode="10"
+        version = "1.0.0">
+
+
+    <name>DWI List App</name>
+
+    <description>This is a to-do list app from DWI</description>
+
+    <author href="http://www.devworkshop.org" email="info@devworkshop.org">DWI Attendee</author>
+
+    <icon src="icon.png" />
+
+    <access uri="*" subdomains="true" />
+    <access origin="*" subdomains="true" />
+
+
+</widget>
